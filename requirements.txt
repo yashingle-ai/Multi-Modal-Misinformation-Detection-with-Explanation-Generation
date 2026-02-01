@@ -1,0 +1,11 @@
+torch
+transformers
+Pillow
+torchvision
+opencv-python
+tqdm
+timm
+numpy
+gradio
+openai-whisper
+imageio-ffmpeg
